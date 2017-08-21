@@ -18,7 +18,7 @@ img.verif_img {
 /********** Global **********/
 
 body {
-	background: url(../images/wood.jpg);
+	background-image: url(../images/handmadepaper.png);
 }
 
 h2, h3 {
@@ -303,3 +303,7 @@ footer {
 	}
 
 /* code examples copyright Jonathan Grover 2012 */
+
+figure {
+	width: 100%;
+}
